@@ -1,6 +1,6 @@
 <div align = 'center'>
     <h1> Jonathan Yashayev <br> Computer Science Student | NYC </h1>
-    <p><strong>I am a New York City based CS Student with a background in web development and software engineering graduating in Fall 2023. </strong></p>
+    <p><strong>I am a New York City based CS student with a background in web development and software engineering graduating in Fall 2023. </strong></p>
 </div>
 
 <div align = 'center'>
