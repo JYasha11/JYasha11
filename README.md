@@ -1,6 +1,6 @@
 <div align = 'center'>
-    <h1> Jonathan Y. <br> Full-Stack Software Engineer | NYC </h1>
-    <p><strong>I am a New York City based Computer Science student with a background in web development and software engineering graduating in Dec 2023. </strong></p>
+    <h1> Jonathan Y. <br> Full-Stack Software Engineer</h1>
+    <p><strong>I am a New York City based Computer Science student with an extensive background in data science, web development and software engineering graduating in Dec 2023. </strong></p>
 </div>
 
 <div align = 'center'>
