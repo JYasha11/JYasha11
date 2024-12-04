@@ -1,6 +1,6 @@
 <div align = 'center'>
     <h1> Jonathan Y. <br> Full-Stack Software Engineer</h1>
-    <p><strong>I am a New York City based Computer Science student with an extensive background in data science, web development and software engineering graduating in Dec 2023. </strong></p>
+    <p><strong>I am a New York City based Software Engineer with an extensive background in data science, full-stack web development and software engineering. I am also into photography and code game mods for fun! </strong></p>
 </div>
 
 <div align = 'center'>
